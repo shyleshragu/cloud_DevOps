@@ -10,6 +10,8 @@ This repository contains the architectural diagrams for deploying [Trading Appli
 
 ## Docker Architecture Diagram
 
+![Docker Architecture](https://github.com/shyleshragun/cloud_DevOps/blob/master/assets/docker architecture.JPG)
+
 
 
 ---
@@ -18,6 +20,8 @@ This repository contains the architectural diagrams for deploying [Trading Appli
 
 ## Cloud Architecture Diagram
 
+![Cloud Architecture](https://github.com/shyleshragun/cloud_DevOps/blob/master/assets/cloud architecture.png)
+
 
 
 ---
@@ -25,6 +29,8 @@ This repository contains the architectural diagrams for deploying [Trading Appli
 
 
 ## AWS E and Jenkins CI/CD Pipeline Diagram
+
+![Jenkins Architecture](https://github.com/shyleshragun/cloud_DevOps/blob/master/assets/jenkins.png)
 
 
 
